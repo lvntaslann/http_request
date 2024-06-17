@@ -6,6 +6,9 @@ BTK Akademi eğitimlerinden Engin DEMİROG tarafından hazırlanan Flutter eğit
 
 Uygulamanın videosu: [Video Linki](https://drive.google.com/file/d/1IeuScbVkli9-Qw-lUvDPfLj9oGOunpXR/view?usp=sharing)
 
+## Projede kullanılan örnek database json dosyası
+Uygulamanın videosu: [db.json](https://drive.google.com/file/d/1UnrFf9Vh_yrH0rTgNYlcDz4JMf-3g6xd/view?usp=sharing)
+
 ## Kaynaklar
 
 - HTTP kütüphanesini Flutter'a eklemek için:
